@@ -61,6 +61,12 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
+- name: source.html
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/783/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 09 Oct 2021 12:00:47 UTC
+record: 3

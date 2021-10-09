@@ -4,3 +4,10 @@ content:
 - Get the paragraph
 - Get the title
 - Get the hyperlink
+- Caesar cipher
+- Printable
+- Chr() application
+- Ord() application
+- To_bytes()
+- Decypher a message
+- Bytes slices
