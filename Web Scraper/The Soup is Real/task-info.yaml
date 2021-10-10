@@ -135,10 +135,10 @@ files:
     </body>
     </html>
   learner_created: true
-- name: Biden’s_pick_to_head_US_environment_agency_heartens_scientists.txt
+- name: Is_lightning_striking_the_Arctic_more_than_ever_before_.txt
   visible: true
   learner_created: true
-- name: Is_lightning_striking_the_Arctic_more_than_ever_before_.txt
+- name: Biden’s_pick_to_head_US_environment_agency_heartens_scientists.txt
   visible: true
   learner_created: true
 - name: Moderna_COVID_vaccine_becomes_second_to_get_US_authorization.txt
@@ -148,5 +148,5 @@ feedback_link: https://hyperskill.org/projects/145/stages/784/implement#comment
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sun, 10 Oct 2021 17:43:35 UTC
+  time: Sun, 10 Oct 2021 17:52:18 UTC
 record: -1
