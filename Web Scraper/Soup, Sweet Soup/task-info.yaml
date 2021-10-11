@@ -123,6 +123,25 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
+- name: source.html
+  visible: true
+  text: |
+    <html>
+    <head>
+      <title>warming up</title>
+      <link rel="stylesheet" type="text/css" href="../style.css">
+    </head>
+    <body>
+    <center>
+    <img src="calc.jpg"><br>
+    <font color="gold">
+    <p>Hint: try to change the URL address.
+    </body>
+    </html>
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/785/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 11 Oct 2021 20:16:00 UTC
 record: -1
